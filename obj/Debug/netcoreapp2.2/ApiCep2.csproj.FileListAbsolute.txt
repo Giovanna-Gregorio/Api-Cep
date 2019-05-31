@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ApiCep2\bin\Debug\netcoreapp2.2\ApiCep2.deps.json
+C:\Users\User\source\repos\ApiCep2\bin\Debug\netcoreapp2.2\ApiCep2.runtimeconfig.json
+C:\Users\User\source\repos\ApiCep2\bin\Debug\netcoreapp2.2\ApiCep2.runtimeconfig.dev.json
+C:\Users\User\source\repos\ApiCep2\bin\Debug\netcoreapp2.2\ApiCep2.dll
+C:\Users\User\source\repos\ApiCep2\obj\Debug\netcoreapp2.2\ApiCep2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ApiCep2\obj\Debug\netcoreapp2.2\ApiCep2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ApiCep2\obj\Debug\netcoreapp2.2\ApiCep2.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\ApiCep2\obj\Debug\netcoreapp2.2\ApiCep2.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\ApiCep2\obj\Debug\netcoreapp2.2\ApiCep2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ApiCep2\obj\Debug\netcoreapp2.2\ApiCep2.AssemblyInfo.cs
+C:\Users\User\source\repos\ApiCep2\obj\Debug\netcoreapp2.2\ApiCep2.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\ApiCep2\bin\Debug\netcoreapp2.2\ApiCep2.pdb
+C:\Users\User\source\repos\ApiCep2\obj\Debug\netcoreapp2.2\ApiCep2.dll
+C:\Users\User\source\repos\ApiCep2\obj\Debug\netcoreapp2.2\ApiCep2.pdb
